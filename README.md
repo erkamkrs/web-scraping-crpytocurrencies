@@ -2,8 +2,7 @@
 
 
 ## Description
-A simple Web Scraping Project built for creating a CSV Data Table for Cryptocurrencies
-
+Web Scraping Project to Get Cryptocurrencies Data from CoinGecko.com using BeautifulSoup and Pandas
 ## Built With
 This project was built using these technologies 
 - Python 3
