@@ -2,7 +2,7 @@
 
 
 ## Description
-A simple Web Scraping Project built for creating a CSV Data Table
+A simple Web Scraping Project built for creating a CSV Data Table for Cryptocurrencies
 
 ## Built With
 This project was built using these technologies 
